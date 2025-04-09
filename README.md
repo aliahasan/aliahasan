@@ -1,4 +1,4 @@
-![Full Stack (MERN) Web Developer](https://media.licdn.com/dms/image/v2/D5612AQFAZVlaAFiOBQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712721914132?e=2147483647&v=beta&t=Xi63-4gUyvVIDi_ASZMYRhlSN0DPfLw02gk14PltNN4)
+![Full Stack (MERN) Web Developer](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)
 ****
 
 ### Hi there 👋, my name is Ali Ahasan Nabin
@@ -39,13 +39,8 @@ Full-Stack Web Developer (MERN) | Building Responsive, Scalable Web Apps with Ja
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aliahasan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahasan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliahasan&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aliahasan/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/aliahasan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aliahasan)  
 
