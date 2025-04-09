@@ -7,7 +7,6 @@
 Full-Stack Web Developer (MERN) | Building Responsive, Scalable Web Apps with JavaScript, TypeScript, React, Next.js, Node.js & MongoDB
 
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning more in depth about next.js 
 - 💬 Ask me about javascript , react  
 - 📫 How to reach me: email : aanabin18@gmail.com 
