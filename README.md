@@ -9,14 +9,19 @@ Full-Stack Web Developer (MERN) | Building Responsive, Scalable Web Apps with Ja
 
 - 🌱 I’m currently diving deeper into **Next.js**
 - 💬 Ask me about **JavaScript**, **React**, or **Web Development**
-- 📫 How to reach me: ✉️ **aanabin18@gmail.com** 
--  📞 01316251022
+- 📫 How to reach me: **aanabin18@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
 
 <p align="left">
+  <a href="mailto:aanabin18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:01316251022" target="_blank">
+    <img src="https://img.shields.io/badge/Call-01316251022-green?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  </a>
   <a href="https://twitter.com/ahasan_nabin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
